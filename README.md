@@ -1,6 +1,6 @@
 # Solana SPL Token Launchpad
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A token launchpad built on the Solana Program Library (SPL), providing a decentralized and efficient platform for launching new tokens on the Solana blockchain. This launchpad offers unique features such as customizable token presales, vesting schedules, liquidity pool creation, and seamless integration with decentralized exchanges, empowering projects to raise funds and distribute tokens securely and transparently.
 
 ## Getting Started
 

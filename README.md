@@ -24,4 +24,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Contact me
 
-Telegram: [@derricklee918](https://t.me/@derricklee918)
+Telegram: [@derricklee918](https://t.me/@dwlee918)
